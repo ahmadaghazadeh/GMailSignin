@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "965067213796",
+    "project_id": "firebase-rhyme"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:965067213796:android:cad5bcfe99171300",
+        "android_client_info": {
+          "package_name": "ir.sevensky.rhyme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "965067213796-c0v9r4fqgv8nmmcqlp7lmvagk700enu8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ir.sevensky.rhyme",
+            "certificate_hash": "55931A66B4E8E4B3693B6523F9C0B1B57E1D37EE"
+          }
+        },
+        {
+          "client_id": "965067213796-s63gmsebhhk77f647l89285hsll0shc6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxh8XtQ0Cy0WAsRvt9gTnDOZ4brfw-nko"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
